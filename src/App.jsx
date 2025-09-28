@@ -140,7 +140,7 @@ const HomePage = ({ setIsPhotoGuideOpen }) => {
                     </div>
                 </div>
                 <div>
-                     <img src=".\public\images\cow_image.png" alt="Cow with muzzle pattern overlay" className="rounded-2xl shadow-2xl w-full h-auto object-cover"/>
+                     <img src="/images/cow_image.png" alt="Cow with muzzle pattern overlay" className="rounded-2xl shadow-2xl w-full h-auto object-cover"/>
                 </div>
             </section>
 
